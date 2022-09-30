@@ -7,12 +7,13 @@ require (
 	code.gitea.io/sdk/gitea v0.15.1
 	github.com/AlecAivazis/survey/v2 v2.3.6
 	github.com/bradleyfalzon/ghinstallation/v2 v2.1.0
-	github.com/cloudevents/sdk-go/v2 v2.11.0
+	github.com/cloudevents/sdk-go/v2 v2.12.0
 	github.com/gfleury/go-bitbucket-v1 v0.0.0-20220418082332-711d7d5e805f
 	github.com/gobwas/glob v0.2.3
 	github.com/google/cel-go v0.11.3
 	github.com/google/go-cmp v0.5.9
 	github.com/google/go-github/scrape v0.0.0-20220919195828-182338c7045a
+	github.com/google/go-github/v45 v45.2.0
 	github.com/google/go-github/v47 v47.1.0
 	github.com/hako/durafmt v0.0.0-20210608085754-5c1018a4e16b
 	github.com/jonboulle/clockwork v0.3.0
@@ -32,6 +33,7 @@ require (
 	golang.org/x/sync v0.0.0-20220907140024-f12130a52804
 	golang.org/x/text v0.3.7
 	google.golang.org/genproto v0.0.0-20220919141832-68c03719ef51
+	gopkg.in/yaml.v2 v2.4.0
 	gotest.tools/v3 v3.3.0
 	k8s.io/api v0.23.9
 	k8s.io/apimachinery v0.23.9
@@ -73,7 +75,6 @@ require (
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-containerregistry v0.11.0 // indirect
-	github.com/google/go-github/v45 v45.2.0 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/google/uuid v1.3.0 // indirect
@@ -125,7 +126,6 @@ require (
 	google.golang.org/grpc v1.49.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	k8s.io/apiextensions-apiserver v0.23.9 // indirect
 	k8s.io/gengo v0.0.0-20220613173612-397b4ae3bce7 // indirect
