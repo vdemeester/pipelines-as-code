@@ -57,7 +57,7 @@ github.com/cespare/xxhash/v2
 ## explicit; go 1.14
 github.com/cloudevents/sdk-go/observability/opencensus/v2/client
 github.com/cloudevents/sdk-go/observability/opencensus/v2/http
-# github.com/cloudevents/sdk-go/v2 v2.11.0
+# github.com/cloudevents/sdk-go/v2 v2.12.0
 ## explicit; go 1.17
 github.com/cloudevents/sdk-go/v2
 github.com/cloudevents/sdk-go/v2/binding
